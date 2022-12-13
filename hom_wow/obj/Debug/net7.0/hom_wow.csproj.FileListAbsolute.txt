@@ -1,0 +1,15 @@
+C:\Users\hp\Home_www\hom_wow\bin\Debug\net7.0\hom_wow.exe
+C:\Users\hp\Home_www\hom_wow\bin\Debug\net7.0\hom_wow.deps.json
+C:\Users\hp\Home_www\hom_wow\bin\Debug\net7.0\hom_wow.runtimeconfig.json
+C:\Users\hp\Home_www\hom_wow\bin\Debug\net7.0\hom_wow.dll
+C:\Users\hp\Home_www\hom_wow\bin\Debug\net7.0\hom_wow.pdb
+C:\Users\hp\Home_www\hom_wow\obj\Debug\net7.0\hom_wow.csproj.AssemblyReference.cache
+C:\Users\hp\Home_www\hom_wow\obj\Debug\net7.0\hom_wow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Home_www\hom_wow\obj\Debug\net7.0\hom_wow.AssemblyInfoInputs.cache
+C:\Users\hp\Home_www\hom_wow\obj\Debug\net7.0\hom_wow.AssemblyInfo.cs
+C:\Users\hp\Home_www\hom_wow\obj\Debug\net7.0\hom_wow.csproj.CoreCompileInputs.cache
+C:\Users\hp\Home_www\hom_wow\obj\Debug\net7.0\hom_wow.dll
+C:\Users\hp\Home_www\hom_wow\obj\Debug\net7.0\refint\hom_wow.dll
+C:\Users\hp\Home_www\hom_wow\obj\Debug\net7.0\hom_wow.pdb
+C:\Users\hp\Home_www\hom_wow\obj\Debug\net7.0\hom_wow.genruntimeconfig.cache
+C:\Users\hp\Home_www\hom_wow\obj\Debug\net7.0\ref\hom_wow.dll
