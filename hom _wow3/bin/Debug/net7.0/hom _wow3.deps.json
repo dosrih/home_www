@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "hom _wow3/1.0.0": {
+        "runtime": {
+          "hom _wow3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hom _wow3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

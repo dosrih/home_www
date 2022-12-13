@@ -1,0 +1,15 @@
+C:\Users\hp\Home_www\hom _wow3\bin\Debug\net7.0\hom _wow3.exe
+C:\Users\hp\Home_www\hom _wow3\bin\Debug\net7.0\hom _wow3.deps.json
+C:\Users\hp\Home_www\hom _wow3\bin\Debug\net7.0\hom _wow3.runtimeconfig.json
+C:\Users\hp\Home_www\hom _wow3\bin\Debug\net7.0\hom _wow3.dll
+C:\Users\hp\Home_www\hom _wow3\bin\Debug\net7.0\hom _wow3.pdb
+C:\Users\hp\Home_www\hom _wow3\obj\Debug\net7.0\hom _wow3.csproj.AssemblyReference.cache
+C:\Users\hp\Home_www\hom _wow3\obj\Debug\net7.0\hom _wow3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Home_www\hom _wow3\obj\Debug\net7.0\hom _wow3.AssemblyInfoInputs.cache
+C:\Users\hp\Home_www\hom _wow3\obj\Debug\net7.0\hom _wow3.AssemblyInfo.cs
+C:\Users\hp\Home_www\hom _wow3\obj\Debug\net7.0\hom _wow3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Home_www\hom _wow3\obj\Debug\net7.0\hom _wow3.dll
+C:\Users\hp\Home_www\hom _wow3\obj\Debug\net7.0\refint\hom _wow3.dll
+C:\Users\hp\Home_www\hom _wow3\obj\Debug\net7.0\hom _wow3.pdb
+C:\Users\hp\Home_www\hom _wow3\obj\Debug\net7.0\hom _wow3.genruntimeconfig.cache
+C:\Users\hp\Home_www\hom _wow3\obj\Debug\net7.0\ref\hom _wow3.dll
